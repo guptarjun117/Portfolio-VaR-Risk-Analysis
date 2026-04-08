@@ -1,4 +1,4 @@
-# Portfolio-VaR-Risk-Analytics
+# Portfolio-VaR-Risk-Analysis
 
 ## 1. Portfolio Universe
  
